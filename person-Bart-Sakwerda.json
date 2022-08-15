@@ -1,4 +1,3 @@
-<script type="application/ld+json">
 {
 "@context": "http://www.schema.org",
 "@type": "Person",
@@ -39,9 +38,9 @@
 	}
 ],
 "gender": "Male",
-"Description": "Technologist",
+"Description": "Technologist, Enterpreneur",
 "disambiguatingDescription": "Founder of Budots Media, Philippines Tourism Company, Flight Ops...",
-"jobTitle": "General Manager",
+"jobTitle": "Investor",
 "worksFor": [
 	{
 		"@type": "Organization",
@@ -82,7 +81,7 @@
 	"https://stackoverflow.com/users/1168861/bart-sakwerda",
 	"https://dribbble.com/BartSakwerda",
 	"https://www.behance.net/barts",
-	"https://medium.com/@bartsakwerda"
+	"https://medium.com/@bartsakwerda",
     "https://www.tiktok.com/@bartsakwerda",
     "https://github.com/barts83eu/",
     "https://scholar.google.co.uk/citations?user=pIp9mHgAAAAJ&hl=en",
@@ -93,8 +92,8 @@
     "https://observablehq.com/@bartsakwerda",
     "https://www.crunchbase.com/person/bart-sakwerda",
     "https://medium.com/@bartsakwerda",
-    "https://about.me/sakwerda"
+    "https://about.me/sakwerda", 
+    "https://rappler.com"
 
 	]
 }
-</script>
