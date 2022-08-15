@@ -1,0 +1,88 @@
+<script type="application/ld+json">
+{
+"@context": "http://www.schema.org",
+"@type": "Person",
+"@id": "",
+"name": "Bart Sakwerda",
+"alternateName": "Bartosz Sakwerda",
+"nationality": "Polish / UK",
+"birthPlace" : {
+	"@type": "Place",
+    "address": {
+  		"@type": "PostalAddress",
+		"addressLocality": "Katowice",
+		"addressRegion": "Upper Silesia",
+        "addressCountry": "Poland"
+	}
+},
+"affiliation": [
+	{
+		"@type": "Organization",
+		"name": "Budots Media",
+		"sameAs": [
+			"https://twitter.com/budotsmedia",
+			"https://www.facebook.com/budots.media",
+			"https://www.linkedin.com/company/budots",
+			"https://www.youtube.com/channel/UCCS_-8KaqBuwqga5WTO9K_Q"
+		]
+  	}
+],
+"alumniOf": [
+	{
+	 "@type": "CollegeOrUniversity",
+	 "name": "University of the Arts",
+	 "sameAs": "https://en.wikipedia.org/wiki/University_of_the_Arts_London"
+	},
+	{
+	 "@type": "CollegeOrUniversity",
+	 "name": "London College of Communication"
+	}
+],
+"gender": "Male",
+"Description": "Technologist",
+"disambiguatingDescription": "Founder of Budots Media, Philippines Tourism Company, Flight Ops...",
+"jobTitle": "General Manager",
+"worksFor": [
+	{
+		"@type": "Organization",
+		"name": "Budots Media",
+		"sameAs": [
+			"https://www.facebook.com/budots.media",
+			"https://www.linkedin.com/company/budots",
+			"https://instagram.com/budots_media"
+		]
+	},
+    {
+		"@type": "Organization",
+		"name": "Philippines Tourism Company",
+		"sameAs": [
+			"https://www.facebook.com/kalanggaman.island.tours",
+			"https://www.linkedin.com/company/philippines-travel",
+			"https://www.facebook.com/Philippines.Tourism.Company"
+		]
+	}
+],
+"url": "https://scontent-lhr8-1.xx.fbcdn.net/v/t39.30808-6/295231038_10158631657262181_5055494414830915697_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=38oHRqJXeKsAX8yHqqN&_nc_ht=scontent-lhr8-1.xx&oh=00_AT_Dqqy3q3mAxipkJZbVyhW5E7RafIto2FYCjPALwKImww&oe=62FF3885",
+"address": {
+	"@type": "PostalAddress",
+	"addressLocality": "London",
+	"addressRegion": "England",
+	"addressCountry": "UK"
+},
+"sameAs": [
+	"https://twitter.com/bartsakwerda",
+	"https://www.pinterest.co.uk/bart_sakwerda/",
+	"https://www.instagram.com/entp83/",
+	"https://www.facebook.com/intp83/",
+	"https://ca.linkedin.com/in/bartsakwerda",
+	"https://www.youtube.com/user/topfunk",
+	"https://github.com/entp83",
+	"https://angel.co/bartsakwerda",
+	"https://codepen.io/bartsakwerda/",
+	"https://stackoverflow.com/users/1168861/bart-sakwerda",
+	"https://dribbble.com/BartSakwerda",
+	"https://www.behance.net/barts",
+	"https://medium.com/@bartsakwerda"
+	]
+}
+</script>
